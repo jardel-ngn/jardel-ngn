@@ -1,8 +1,5 @@
 <!-- 
-  Senior Dev here! This is the updated code for your profile, 
-  now powered by the information from your CV. 
-  It tells a strong story about your career transition into software engineering.
-  I've enriched the bios and the tech stack. Just copy and paste.
+  Senior Dev here! This is the updated code for your profile. 
 -->
 
 <!-- Section: Header and Introduction -->
